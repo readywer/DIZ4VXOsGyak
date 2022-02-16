@@ -1,0 +1,5 @@
+md mappa csinál
+cd belépés mappába
+dir almappák kiír
+cd.. vissza mappaába
+xcopy honnan hova /T
