@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650438657 source:/home/op/Dokumentumok/asd2/main.c
+	<stdio.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+

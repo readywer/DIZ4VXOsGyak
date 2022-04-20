@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650438525 source:/home/op/Dokumentumok/OS18/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+
